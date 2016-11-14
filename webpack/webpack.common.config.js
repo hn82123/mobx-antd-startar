@@ -98,12 +98,6 @@ module.exports = {
       commonjs2: 'react-router',
       amd: 'react-router',
     },
-    antd: {
-      root: 'antd',
-      commonjs: 'antd',
-      commonjs2: 'antd',
-      amd: 'antd',
-    }
   },
   resolve: {
     extensions: [

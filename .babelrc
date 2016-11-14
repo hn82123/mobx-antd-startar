@@ -5,6 +5,7 @@
     "es2015"
   ],
   "plugins": [
+    ["import", [{ "libraryName": "antd" }]],
     "transform-decorators-legacy",
     "transform-class-properties",
     "react-hot-loader/babel"
